@@ -1,12 +1,27 @@
 import React, { Component } from 'react'
 import { ExternalLink } from 'react-external-link';
 
+/*
+          key={idx}
+          resourceName={item.resourceName}
+          resourceImage={item.resourceImage}
+          resourceColor={item.resourceColor}
+          resourceType={item.resourceType}
+          topic={item.topic}
+          creator={item.creator}
+          creatorLink={item.creatorLink}
+          resourceDetails={item.resourceDetails}
+          resourceLink={item.resourceLink}
+          level ={item.level}
+*/
+
 class Card extends Component{
 
     render(){
         return(
             <div className="card1">
-            <header className="card-header1">
+            Hola esto es  Card {this.props.key}
+            {/* <header className="card-header1">
                 <img src={this.props.image} alt={this.props.title} className="card-header" width='280px'/>
             </header>
             <div className="card-body1">
@@ -19,8 +34,8 @@ class Card extends Component{
                         <i className="fa fa-chevron-right"></i> Find out more
                     </button>    
                 </ExternalLink>
-            </div>                
-        </div>
+            </div>                 */}
+            </div>
         )
     }
 
