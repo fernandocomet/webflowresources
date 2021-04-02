@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Card from './Card';
 import './App.css';
 
 class Resources extends Component{
@@ -36,25 +36,18 @@ class Resources extends Component{
     return(
       <div className="resources-list">
       {this.state.data.map((item, idx) => (
-          <Card2 
+          <Card 
           key={idx}
-          resourceName
-          resourceImage
-          resourceColor
-          resourceType
-          topic
-          creator
-          creatorLink
-          resourceDetails
-          resourceLink
-          level 
-          image={item.pic}
-          title={item.title} 
-          hashtag={item.category}
-          description={item.description}
-          description2={item.description2}
-          thanksto={item.thanksto}
-          url={item.url}
+          resourceName={item.resourceName}
+          resourceImage={item.resourceImage}
+          resourceColor={item.resourceColor}
+          resourceType={item.resourceType}
+          topic={item.topic}
+          creator={item.creator}
+          creatorLink={item.creatorLink}
+          resourceDetails={item.resourceDetails}
+          resourceLink={item.resourceLink}
+          level ={item.level}
           />
       ))}
   </div>    
