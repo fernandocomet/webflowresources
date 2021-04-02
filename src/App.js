@@ -14,7 +14,8 @@ class Resources extends Component{
   }
 
   componentDidMount(){
-    fetch('https://raw.githubusercontent.com/fernandocomet/portfolio/master/src/data/portfolio.json')
+    fetch('https://cdn.jsdelivr.net/gh/fernandocomet/webflowresources@master/src/data/webflow_resources.json')
+    //fetch('https://raw.githubusercontent.com/fernandocomet/webflowresources/blob/master/src/data/webflow_resources.json')
     .then(response => response.json())
     .then(data => this.setState({ data }))
   }

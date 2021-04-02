@@ -2,7 +2,7 @@
   {
     "resourceName": "Webflow 101 crash course",
     "briefDescription": "overview of the basics to get started on building your first website,",
-    "resourceImage": "Webflow_101_crash_course-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_101_crash_course-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -16,7 +16,7 @@
   {
     "resourceName": "2021 design portfolio course",
     "briefDescription": "Build and visually design a full portfolio website in 21 days",
-    "resourceImage": "2021_design_portfolio_course-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/2021_design_portfolio_course-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -30,7 +30,7 @@
   {
     "resourceName": "Ultimate web design course",
     "briefDescription": "Learn how to build sites in Webflow and become the designer you always wanted to be.",
-    "resourceImage": "Ultimate_web_design_course-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Ultimate_web_design_course-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -44,7 +44,7 @@
   {
     "resourceName": "SEO fundamentals",
     "briefDescription": "SEO fundamentals and best practices",
-    "resourceImage": "SEO_fundamentals-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/SEO_fundamentals-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Course",
     "topic": "SEO",
@@ -58,7 +58,7 @@
   {
     "resourceName": "Webflow Ecommerce",
     "briefDescription": "Learn how to build and design your Webflow Ecommerce store",
-    "resourceImage": "Webflow_ecommerce-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_ecommerce-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "eCommerce",
@@ -72,7 +72,7 @@
   {
     "resourceName": "CSS layout & positioning",
     "briefDescription": "Dig into the world of HTML and CSS layouts",
-    "resourceImage": "CSS_layout_positioning-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CSS_layout_positioning-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "CSS",
@@ -86,7 +86,7 @@
   {
     "resourceName": "CSS styling",
     "briefDescription": "Learn how to style elements visually, with the power of Webflow.",
-    "resourceImage": "CSS_styling-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CSS_styling-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "CSS",
@@ -100,7 +100,7 @@
   {
     "resourceName": "CSS grid in Webflow",
     "briefDescription": "An overview of CSS grid.",
-    "resourceImage": "CSS_grid_in_Webflow-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CSS_grid_in_Webflow-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "CSS",
@@ -114,7 +114,7 @@
   {
     "resourceName": "Web elements",
     "briefDescription": "Start designing websites visually, with confidence.",
-    "resourceImage": "Web_elements-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Web_elements-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -128,7 +128,7 @@
   {
     "resourceName": "CMS & dynamic content",
     "briefDescription": "Learn how to use Webflow CMS",
-    "resourceImage": "CMS_dynamic_content-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CMS_dynamic_content-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "CMS",
@@ -142,7 +142,7 @@
   {
     "resourceName": "Client’s guide to the Editor",
     "briefDescription": "Client’s guide to the Webflow Editor",
-    "resourceImage": "Clients_guide_to_the_Editor-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Clients_guide_to_the_Editor-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -156,7 +156,7 @@
   {
     "resourceName": "Full site build",
     "briefDescription": "Design and develop a CMS-driven website",
-    "resourceImage": "Full_site_build-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Full_site_build-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "CMS, Web Design",
@@ -170,7 +170,7 @@
   {
     "resourceName": "Interactions & animations course",
     "briefDescription": "Learn how to animate multiple elements managed on a single timeline",
-    "resourceImage": "Interactions_and_animations_course-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Interactions_and_animations_course-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Interaction",
@@ -184,7 +184,7 @@
   {
     "resourceName": "Add web animations with After Effects & Lottie",
     "briefDescription": "Create animations in Adobe After Effects  and Lottie",
-    "resourceImage": "Add_web_animations_with_AfterEffects_and_Lottie-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Add_web_animations_with_AfterEffects_and_Lottie-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Interaction",
@@ -198,7 +198,7 @@
   {
     "resourceName": "Freelance web design bootcamp",
     "briefDescription": "Fulfilling freelance career in web design.",
-    "resourceImage": "Freelance_web_design_bootcamp-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Freelance_web_design_bootcamp-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Freelancing",
@@ -212,7 +212,7 @@
   {
     "resourceName": "Moving your business online",
     "briefDescription": "Take your business online",
-    "resourceImage": "Moving_your_business_online-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Moving_your_business_online-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Freelancing",
@@ -226,7 +226,7 @@
   {
     "resourceName": "The nocode revolution",
     "briefDescription": "No code movement",
-    "resourceImage": "the_nocode_revolution-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/the_nocode_revolution-min.jpg",
     "resourceColor": "#5562B5",
     "resourceType": "ebook",
     "topic": "NoCode",
@@ -240,7 +240,7 @@
   {
     "resourceName": "The modern web design process",
     "briefDescription": "Web Design Process",
-    "resourceImage": "the_modern_webdesign_process-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/the_modern_webdesign_process-min.jpg",
     "resourceColor": "#5562B5",
     "resourceType": "ebook",
     "topic": "Web Design",
@@ -254,7 +254,7 @@
   {
     "resourceName": "The freelance web designer’s guide",
     "briefDescription": "Guide to become freelance web designer",
-    "resourceImage": "the_freelance_webdesign_guide-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/the_freelance_webdesign_guide-min.jpg",
     "resourceColor": "#5562B5",
     "resourceType": "ebook",
     "topic": "Freelancing",
@@ -268,7 +268,7 @@
   {
     "resourceName": "Web design 101",
     "briefDescription": "Learn Web Design",
-    "resourceImage": "webdesign_101-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webdesign_101-min.jpg",
     "resourceColor": "#5562B5",
     "resourceType": "ebook",
     "topic": "Web Design",
@@ -282,7 +282,7 @@
   {
     "resourceName": "The 2021 Guide to Webflow Website Naming Conventions",
     "briefDescription": "Guide to Webflow Website Naming Conventions",
-    "resourceImage": "The_2021_Guide_to_Webflow_Website_Naming_Conventions-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/The_2021_Guide_to_Webflow_Website_Naming_Conventions-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Tutorial",
     "topic": "CSS",
@@ -296,7 +296,7 @@
   {
     "resourceName": "Hatch, a utility framework for Webflow",
     "briefDescription": "A CSS utility framework",
-    "resourceImage": "hatch-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/hatch-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "CSS",
@@ -310,7 +310,7 @@
   {
     "resourceName": "Stock is a utility-first CSS library made just for Webflow",
     "briefDescription": "A CSS utility framework",
-    "resourceImage": "stock-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/stock-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "CSS",
@@ -324,7 +324,7 @@
   {
     "resourceName": "Class naming 101: BEM",
     "briefDescription": "A CSS utility framework",
-    "resourceImage": "bem-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/bem-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "CSS",
@@ -338,7 +338,7 @@
   {
     "resourceName": "El Patio, design system template",
     "briefDescription": "A CSS utility framework",
-    "resourceImage": "el_patio-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/el_patio-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "CSS",
@@ -352,7 +352,7 @@
   {
     "resourceName": "Edgar Allan Standard NoCode Class Library",
     "briefDescription": "A CSS utility framework",
-    "resourceImage": "edgar_allan-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/edgar_allan-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "CSS",
@@ -366,7 +366,7 @@
   {
     "resourceName": "Webflow Insider (Newsletter)",
     "briefDescription": "Become a member of webflow community",
-    "resourceImage": "webflow_community-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_community-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -380,7 +380,7 @@
   {
     "resourceName": "Webflow Forum",
     "briefDescription": "Webflow forum",
-    "resourceImage": "webflow_forum-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_forum-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -394,7 +394,7 @@
   {
     "resourceName": "Webflow Customer Support",
     "briefDescription": "Webflow Customer Support",
-    "resourceImage": "Webflow_Customer_Support-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Customer_Support-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -408,7 +408,7 @@
   {
     "resourceName": "Webflow on Reddit",
     "briefDescription": "Webflow Reddit Community",
-    "resourceImage": "Webflow_Reddit-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Reddit-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -422,7 +422,7 @@
   {
     "resourceName": "Webflow discord channel",
     "briefDescription": "Webflow Discord Channel",
-    "resourceImage": "webflow_discord-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_discord-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -436,7 +436,7 @@
   {
     "resourceName": "Kabarza discord channel",
     "briefDescription": "Design and Development Discord Channel",
-    "resourceImage": "kabarza-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/kabarza-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -450,7 +450,7 @@
   {
     "resourceName": "Webflow Design — facebook group",
     "briefDescription": "Unofficial Webflow user group",
-    "resourceImage": "WebflowDesign_facebookgroup-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/WebflowDesign_facebookgroup-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -464,7 +464,7 @@
   {
     "resourceName": "Webflow Designers (global) — facebook group",
     "briefDescription": "75,000+ members",
-    "resourceImage": "Webflow_Designers_global_facebookgroup-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Designers_global_facebookgroup-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -478,7 +478,7 @@
   {
     "resourceName": "Free Webflow & No-code Helpers",
     "briefDescription": "A community of Webflow lovers who enjoy helping others with their “simple” design, code or integration issues.",
-    "resourceImage": "Free_Webflow_No-codeHelpers-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Free_Webflow_No-codeHelpers-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -492,7 +492,7 @@
   {
     "resourceName": "Webflow events",
     "briefDescription": "Attend a Webflow event",
-    "resourceImage": "webflow_events-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_events-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -506,7 +506,7 @@
   {
     "resourceName": "Webflow afiliate program",
     "briefDescription": "Join the Webflow affiliate program",
-    "resourceImage": "Webflow_afiliate_program-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_afiliate_program-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -520,7 +520,7 @@
   {
     "resourceName": "Webflow Experts",
     "briefDescription": "professional partners and enterprise partners",
-    "resourceImage": "Webflow_Experts-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Experts-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Community",
@@ -534,7 +534,7 @@
   {
     "resourceName": "Somos webflowers — Podcast",
     "briefDescription": "A Spanish podcast on webflow",
-    "resourceImage": "Somos_webflowers-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Somos_webflowers-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Podcast",
     "topic": "Community",
@@ -548,7 +548,7 @@
   {
     "resourceName": "Webflow wishlist",
     "briefDescription": "Add new ideas to webflow roadmap",
-    "resourceImage": "webflow_wishlist-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_wishlist-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Wishlist",
     "topic": "miscellaneous",
@@ -562,7 +562,7 @@
   {
     "resourceName": "Webflow Developers",
     "briefDescription": "Developers documentation",
-    "resourceImage": "webflow_developers-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_developers-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Developer",
@@ -576,7 +576,7 @@
   {
     "resourceName": "Webflow Glossary",
     "briefDescription": "A webflow glossary of terms",
-    "resourceImage": "webflow_glossary-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_glossary-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "miscellaneous",
@@ -590,7 +590,7 @@
   {
     "resourceName": "Webflow Integrations",
     "briefDescription": "Enhance your websites and unlock all kinds of functionality. Find and embed plugins and widgets. Get free and premium images, videos, and other assets for your site.",
-    "resourceImage": "webflow_integrations-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_integrations-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Integrations",
@@ -604,7 +604,7 @@
   {
     "resourceName": "Wizardry",
     "briefDescription": "Save time and gain control of your webflow site.",
-    "resourceImage": "Wizardry-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Wizardry-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -618,7 +618,7 @@
   {
     "resourceName": "Webflow SEO",
     "briefDescription": "SEO and Webflow: the essential guide",
-    "resourceImage": "Webflow_SEO-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_SEO-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "SEO",
@@ -632,7 +632,7 @@
   {
     "resourceName": "Webflow templates",
     "briefDescription": "Responsive website templates for designers, businesses, and personal use",
-    "resourceImage": "Webflow_templates-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_templates-min.jpg",
     "resourceColor": "#5562B5",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -646,7 +646,7 @@
   {
     "resourceName": "Visual flexbox builder",
     "briefDescription": "Meet the first visual flexbox builder",
-    "resourceImage": "Visual_flexbox_builder-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Visual_flexbox_builder-min.jpg",
     "resourceColor": "#5562B5",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -660,7 +660,7 @@
   {
     "resourceName": "Flowbase",
     "briefDescription": "Discover products to help you build better with Webflow",
-    "resourceImage": "flowbase-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/flowbase-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -674,7 +674,7 @@
   {
     "resourceName": "Udesly",
     "briefDescription": "Find awesome resources for Webflow and the Udesly Adapter APP",
-    "resourceImage": "udesly-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/udesly-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "CMS, Web Design",
@@ -688,7 +688,7 @@
   {
     "resourceName": "WebDevForYou",
     "briefDescription": "Visual web development made easy.",
-    "resourceImage": "WebDevForYou-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/WebDevForYou-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -702,7 +702,7 @@
   {
     "resourceName": "Flow Ninja",
     "briefDescription": "Explore Free Resources & Templates",
-    "resourceImage": "Flow_Ninja-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Flow_Ninja-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -716,7 +716,7 @@
   {
     "resourceName": "Elfsight",
     "briefDescription": "The best Webflow widgets",
-    "resourceImage": "Elfsight-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Elfsight-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -730,7 +730,7 @@
   {
     "resourceName": "Weglot",
     "briefDescription": "Translate your Webflow website and make it multilingual",
-    "resourceImage": "Weglot-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Weglot-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -744,7 +744,7 @@
   {
     "resourceName": "Localize",
     "briefDescription": "Translate webflow",
-    "resourceImage": "Localize-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Localize-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -758,7 +758,7 @@
   {
     "resourceName": "Webflow Certifications",
     "briefDescription": "Get early access to the first official exams",
-    "resourceImage": "Webflow_Certifications-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Certifications-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Community",
@@ -772,7 +772,7 @@
   {
     "resourceName": "Webflow Merch Store",
     "briefDescription": "webflow store",
-    "resourceImage": "Webflow_Merch_store-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Merch_store-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Community",
@@ -786,7 +786,7 @@
   {
     "resourceName": "Webflow Interactions",
     "briefDescription": "Website Interactions without code",
-    "resourceImage": "Webflow_Interactions-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_Interactions-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Interaction",
@@ -800,7 +800,7 @@
   {
     "resourceName": "Supermegapack",
     "briefDescription": "Webflow workflow",
-    "resourceImage": "Supermegapack-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Supermegapack-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "miscellaneous",
@@ -814,7 +814,7 @@
   {
     "resourceName": "Finsweet webflow hacks",
     "briefDescription": "Useful webflow functionality upgrades with custom code",
-    "resourceImage": "Finsweet_webflow_hacks-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Finsweet_webflow_hacks-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "miscellaneous",
@@ -828,7 +828,7 @@
   {
     "resourceName": "F’in sweet CMS Library for Webflow",
     "briefDescription": "F'in sweet CMS Library for Webflow",
-    "resourceImage": "FinsweetCMS-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/FinsweetCMS-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "CMS",
@@ -842,7 +842,7 @@
   {
     "resourceName": "Sweet.js",
     "briefDescription": "Javascript support service by Finsweet",
-    "resourceImage": "Sweetjs-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Sweetjs-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Developer",
@@ -856,7 +856,7 @@
   {
     "resourceName": "Codecrumbs",
     "briefDescription": "Code Snippets for Your Webflow!",
-    "resourceImage": "Codecrumbs-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Codecrumbs-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Developer",
@@ -870,7 +870,7 @@
   {
     "resourceName": "Flowgator",
     "briefDescription": "Automate export of Webflow project to Github",
-    "resourceImage": "Flowgator-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Flowgator-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Developer",
@@ -884,7 +884,7 @@
   {
     "resourceName": "Webflow template submission guidelines",
     "briefDescription": "Submission Guidelines",
-    "resourceImage": "Webflow_template_submission_guidelines-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_template_submission_guidelines-min.jpg",
     "resourceColor": "#FCCF5E",
     "resourceType": "Community",
     "topic": "Developer",
@@ -898,7 +898,7 @@
   {
     "resourceName": "Storychief",
     "briefDescription": "Your content marketing solution that helps you manage your Webflow blog / newsletters / social media posts / content hubs and more.",
-    "resourceImage": "Storychief-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Storychief-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Community",
@@ -912,7 +912,7 @@
   {
     "resourceName": "Webflow resources by @thisdickie",
     "briefDescription": "Helpful webflow resources",
-    "resourceImage": "Webflow_resources_thisdickie-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_resources_thisdickie-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "miscellaneous",
@@ -926,7 +926,7 @@
   {
     "resourceName": "SystemFlow",
     "briefDescription": "A Designer-First, utility Framework for Webflow and Figma, with 1000+ CSS classes, pre-built components, layouts and more!",
-    "resourceImage": "SystemFlow-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/SystemFlow-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -940,7 +940,7 @@
   {
     "resourceName": "Nikolai Bain blog",
     "briefDescription": "Nikolai Bain blog",
-    "resourceImage": "NikolaiBain_blog-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/NikolaiBain_blog-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "miscellaneous",
@@ -954,7 +954,7 @@
   {
     "resourceName": "Webflow blog",
     "briefDescription": "Webflow blog",
-    "resourceImage": "webflow_blog-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_blog-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "Community",
@@ -968,7 +968,7 @@
   {
     "resourceName": "Webflow Keyboard shortcuts updated",
     "briefDescription": "Webflow shortcuts",
-    "resourceImage": "webflow_shortcuts-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_shortcuts-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "web Design",
@@ -982,7 +982,7 @@
   {
     "resourceName": "Webflow Feature Availability & Limits",
     "briefDescription": "Feature Availability & Limits",
-    "resourceImage": "webflow_limitations-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_limitations-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "web Design",
@@ -996,7 +996,7 @@
   {
     "resourceName": "JetBoost",
     "briefDescription": "CMS Dynamic Filters (No Code)",
-    "resourceImage": "JetBoost-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/JetBoost-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Clonable",
     "topic": "CMS",
@@ -1010,7 +1010,7 @@
   {
     "resourceName": "Free Google Page Experience Checker",
     "briefDescription": "Free Google Page Experience Checker",
-    "resourceImage": "Free_Google_Page_Experience_Checker-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Free_Google_Page_Experience_Checker-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Performance",
@@ -1024,7 +1024,7 @@
   {
     "resourceName": "Measure",
     "briefDescription": "How your site is measured",
-    "resourceImage": "Measure-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Measure-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Performance",
@@ -1038,7 +1038,7 @@
   {
     "resourceName": "CSS Auditing tools",
     "briefDescription": "CSS Auditing tools",
-    "resourceImage": "CSS_Auditing_tools-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CSS_Auditing_tools-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "CSS",
@@ -1052,7 +1052,7 @@
   {
     "resourceName": "Google Lighthouse",
     "briefDescription": "Performance tool",
-    "resourceImage": "Google_Lighthouse-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Google_Lighthouse-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Performance",
@@ -1066,7 +1066,7 @@
   {
     "resourceName": "Seobility",
     "briefDescription": "Test your Website with the SEO Checker from Seobility!",
-    "resourceImage": "Seobility-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Seobility-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "SEO",
@@ -1080,7 +1080,7 @@
   {
     "resourceName": "SeoOptimer",
     "briefDescription": "SEO Audit & Reportfing tool",
-    "resourceImage": "SeoOptimer-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/SeoOptimer-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "SEO",
@@ -1094,7 +1094,7 @@
   {
     "resourceName": "Use animations",
     "briefDescription": "Animated icons",
-    "resourceImage": "Use_animations-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Use_animations-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -1108,7 +1108,7 @@
   {
     "resourceName": "Lottiefiles",
     "briefDescription": "Animations designed for webflow",
-    "resourceImage": "lottiefiles-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/lottiefiles-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -1122,7 +1122,7 @@
   {
     "resourceName": "Finsweet youtube channel",
     "briefDescription": "We’re a Webflow enterprise partner, badass product creator, and educational content powerhouse.",
-    "resourceImage": "finsweet_youtube-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/finsweet_youtube-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1136,7 +1136,7 @@
   {
     "resourceName": "F'in Growth",
     "briefDescription": "Each week we go live on YouTube to answer questions and discuss topics submitted by the community.",
-    "resourceImage": "FinGrowth-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/FinGrowth-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1150,7 +1150,7 @@
   {
     "resourceName": "Mackenzie Child",
     "briefDescription": "The Flowmingo Show",
-    "resourceImage": "mckenziechild-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/mckenziechild-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1164,7 +1164,7 @@
   {
     "resourceName": "Jan Losert",
     "briefDescription": "a designer, Webflow expert & products creator.",
-    "resourceImage": "janlosert-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/janlosert-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1178,7 +1178,7 @@
   {
     "resourceName": "Timothy Ricks",
     "briefDescription": "webflow tricks",
-    "resourceImage": "TimothyRicks-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/TimothyRicks-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1192,7 +1192,7 @@
   {
     "resourceName": "Flux",
     "briefDescription": "Ran Segall videos",
-    "resourceImage": "RanSegall-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/RanSegall-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1206,7 +1206,7 @@
   {
     "resourceName": "Pixel Geek",
     "briefDescription": "a community of no coders that leads with empathy and honesty",
-    "resourceImage": "PixelGeek-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/PixelGeek-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1220,7 +1220,7 @@
   {
     "resourceName": "WebDev for you",
     "briefDescription": "WebDevforyou videos",
-    "resourceImage": "WebDevforyou_videos-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/WebDevforyou_videos-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1234,7 +1234,7 @@
   {
     "resourceName": "Udesly",
     "briefDescription": "Find awesome resources for Webflow and the Udesly Adapter APP",
-    "resourceImage": "udesly_videos-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/udesly_videos-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1248,7 +1248,7 @@
   {
     "resourceName": "Chris Tsurcanu",
     "briefDescription": "Webflow Site Speed",
-    "resourceImage": "ChrisTsurcanu-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/ChrisTsurcanu-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "Performance",
@@ -1262,7 +1262,7 @@
   {
     "resourceName": "The year showcased 2020",
     "briefDescription": "From 6,259 projects, we curated and featu#FCCF5E 2,388 projects in 2020.",
-    "resourceImage": "Theyearshowcased2020-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Theyearshowcased2020-min.jpg",
     "resourceColor": "#DEF21A",
     "resourceType": "Inspiration",
     "topic": "Web Design",
@@ -1276,7 +1276,7 @@
   {
     "resourceName": "Webflow showcase — popular",
     "briefDescription": "webflow showcase",
-    "resourceImage": "Webflow_showcase_popular-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_showcase_popular-min.jpg",
     "resourceColor": "#DEF21A",
     "resourceType": "Inspiration",
     "topic": "Web Design",
@@ -1290,7 +1290,7 @@
   {
     "resourceName": "Webflow in 2020, year in review",
     "briefDescription": "Over 417,548 sites #MadeInWebflow↗ in 190 countries this year.",
-    "resourceImage": "Webflowin2020-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflowin2020-min.jpg",
     "resourceColor": "#DEF21A",
     "resourceType": "Inspiration",
     "topic": "Web Design",
@@ -1304,7 +1304,7 @@
   {
     "resourceName": "Awwwards — webflow",
     "briefDescription": "The awards for design, creativity and innovation on the Internet",
-    "resourceImage": "Awwwards_webflow-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Awwwards_webflow-min.jpg",
     "resourceColor": "#DEF21A",
     "resourceType": "Inspiration",
     "topic": "Web Design",
@@ -1318,7 +1318,7 @@
   {
     "resourceName": "Madflow",
     "briefDescription": "Discover the World's Best Webflow Designs",
-    "resourceImage": "madflow-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/madflow-min.jpg",
     "resourceColor": "#DEF21A",
     "resourceType": "Inspiration",
     "topic": "Web Design",
@@ -1332,7 +1332,7 @@
   {
     "resourceName": "Niccolò Miranda",
     "briefDescription": "Freelance Creative Director, Interactive Designer & Developer.",
-    "resourceImage": "NiccoloMiranda-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/NiccoloMiranda-min.jpg",
     "resourceColor": "#DEF21A",
     "resourceType": "Inspiration",
     "topic": "Web Design",
@@ -1346,7 +1346,7 @@
   {
     "resourceName": "Flux Academy",
     "briefDescription": "Learn the art and business of web design",
-    "resourceImage": "FluxAcademy-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/FluxAcademy-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -1360,7 +1360,7 @@
   {
     "resourceName": "Academia webtools",
     "briefDescription": "Learn to create, edit & publish web pages without code.",
-    "resourceImage": "Academia_webtools-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Academia_webtools-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -1374,7 +1374,7 @@
   {
     "resourceName": "Flowmingo",
     "briefDescription": ": Webflow training & templates to help you build impressive sites without code.",
-    "resourceImage": "Flowmingo-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Flowmingo-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
@@ -1388,7 +1388,7 @@
   {
     "resourceName": "Creating Clean & Simple Website with Webflow",
     "briefDescription": "Creating Clean & Simple Website with Webflow",
-    "resourceImage": "CreatingCleanSimpleWebsitewithWebflowJanLosert-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CreatingCleanSimpleWebsitewithWebflowJanLosert-min.jpg",
     "resourceColor": "#0531FA",
     "resourceType": "Video",
     "topic": "miscellaneous",
@@ -1402,7 +1402,7 @@
   {
     "resourceName": "Super Webflow Bootcamp",
     "briefDescription": "From singleplayer learning to multiplayer doing",
-    "resourceImage": "SuperWebflowBootcamp-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/SuperWebflowBootcamp-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "miscellaneous",
@@ -1416,7 +1416,7 @@
   {
     "resourceName": "Build a full-site in Webflow — Design & Code",
     "briefDescription": "Build a full site in Webflow",
-    "resourceImage": "DesignCode-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/DesignCode-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "miscellaneous",
@@ -1430,7 +1430,7 @@
   {
     "resourceName": "Guide to Webflow for Beginners",
     "briefDescription": "The Easiest Guide to Webflow for Beginners",
-    "resourceImage": "GuideWebflowBeginners-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/GuideWebflowBeginners-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "miscellaneous",
@@ -1444,7 +1444,7 @@
   {
     "resourceName": "NoCoded Courses",
     "briefDescription": "Learn, Create & Grow your NoCode skills with NoCoded",
-    "resourceImage": "NoCodedCourses-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/NoCodedCourses-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "miscellaneous",
@@ -1458,7 +1458,7 @@
   {
     "resourceName": "Create animated and interactive experiences using Lottie",
     "briefDescription": "Create animated and interactive experiences using Lottie",
-    "resourceImage": "LottieAwwwardsAcademy-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/LottieAwwwardsAcademy-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Interaction",
@@ -1472,7 +1472,7 @@
   {
     "resourceName": "No-Code Automations: The Future of the Web",
     "briefDescription": "No-Code Automations: The Future of the Web",
-    "resourceImage": "No-CodeAutomations-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/No-CodeAutomations-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "miscellaneous",
@@ -1486,7 +1486,7 @@
   {
     "resourceName": "Complete Web Design: from Figma to Webflow to Freelancing",
     "briefDescription": "Complete Web Design: from Figma to Webflow to Freelancing",
-    "resourceImage": "CompleteWebDesign-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CompleteWebDesign-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "miscellaneous",
@@ -1500,7 +1500,7 @@
   {
     "resourceName": "Manifest",
     "briefDescription": "#no-code web design revolution with webflow",
-    "resourceImage": "manifest-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/manifest-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -1514,7 +1514,7 @@
   {
     "resourceName": "Google Chrome webflow extensions",
     "briefDescription": "Utilities for Google Chrome",
-    "resourceImage": "GoogleChromewebflowextensions-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/GoogleChromewebflowextensions-min.jpg",
     "resourceColor": "#7BC963",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -1528,7 +1528,7 @@
   {
     "resourceName": "HTML5 Semantic elements",
     "briefDescription": "Essential guide",
-    "resourceImage": "HTML5SemanticElements-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/HTML5SemanticElements-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "Web Design",
@@ -1542,7 +1542,7 @@
   {
     "resourceName": "UIFlow",
     "briefDescription": "Curated Webflow Inspirations & Assets",
-    "resourceImage": "UIFlow-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/UIFlow-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -1556,7 +1556,7 @@
   {
     "resourceName": "Design System",
     "briefDescription": "A CSS utility framework",
-    "resourceImage": "DesignSystem-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/DesignSystem-min.jpg",
     "resourceColor": "#FF4A67",
     "resourceType": "Clonable",
     "topic": "CSS",
@@ -1570,7 +1570,7 @@
   {
     "resourceName": "NoCodeTribe",
     "briefDescription": "Webflow Components & Tutorials. Build websites in Webflow, fast.",
-    "resourceImage": "NoCodeTribe-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/NoCodeTribe-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -1584,7 +1584,7 @@
   {
     "resourceName": "Advanced webflow forms",
     "briefDescription": "Welcome to the beta version of the Advanced Forms Builder.",
-    "resourceImage": "Advancedwebflowforms-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Advancedwebflowforms-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "web Design",
@@ -1598,7 +1598,7 @@
   {
     "resourceName": "Prospero UI Kit",
     "briefDescription": "A clean, modular — and free — UI kit for ecommerce and beyond",
-    "resourceImage": "prosperoUIkit-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/prosperoUIkit-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -1612,7 +1612,7 @@
   {
     "resourceName": "Cards 2.0 Framework & UI Kit",
     "briefDescription": "Full Story of Cards 2.0 Kit",
-    "resourceImage": "Cards20-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Cards20-min.jpg",
     "resourceColor": "#7BC963",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -1626,7 +1626,7 @@
   {
     "resourceName": "Webflow wireframe kit",
     "briefDescription": "Wireframe prototypes directly in Webflow",
-    "resourceImage": "Webflowwireframekit-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Webflowwireframekit-min.jpg",
     "resourceColor": "#7BC964",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -1640,7 +1640,7 @@
   {
     "resourceName": "Daily Direction Micro Interactions",
     "briefDescription": "Micro Interactions",
-    "resourceImage": "DailyDirectionMicroInteractions-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/DailyDirectionMicroInteractions-min.jpg",
     "resourceColor": "#7BC965",
     "resourceType": "Clonable",
     "topic": "Interaction",
@@ -1654,7 +1654,7 @@
   {
     "resourceName": "Homely Homepage",
     "briefDescription": "Typed.js integration",
-    "resourceImage": "HomelyHomepage-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/HomelyHomepage-min.jpg",
     "resourceColor": "#7BC966",
     "resourceType": "Clonable",
     "topic": "Interaction",
@@ -1668,7 +1668,7 @@
   {
     "resourceName": "Makerpad",
     "briefDescription": "Build better business websites, faster. Without coding.",
-    "resourceImage": "Makerpad-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/Makerpad-min.jpg",
     "resourceColor": "#FE6452",
     "resourceType": "Tutorial",
     "topic": "miscellaneous",
@@ -1682,7 +1682,7 @@
   {
     "resourceName": "The Digital Bake",
     "briefDescription": "Free Webflow COPY/PASTE COMPONENTS",
-    "resourceImage": "thedigitalbake-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/thedigitalbake-min.jpg",
     "resourceColor": "#7BC964",
     "resourceType": "Clonable",
     "topic": "Web Design",
@@ -1696,7 +1696,7 @@
   {
     "resourceName": "Qooqee templates",
     "briefDescription": "The ingenuity within design.",
-    "resourceImage": "qooqee-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/qooqee-min.jpg",
     "resourceColor": "#7BC963",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -1710,7 +1710,7 @@
   {
     "resourceName": "Drawer",
     "briefDescription": "Premium Lottie animations Market",
-    "resourceImage": "drawerdesign-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/drawerdesign-min.jpg",
     "resourceColor": "#7BC964",
     "resourceType": "Resource",
     "topic": "Web Design",
@@ -1724,7 +1724,7 @@
   {
     "resourceName": "NoCodeHackers",
     "briefDescription": "Create amazing projects without code",
-    "resourceImage": "nocodehackers-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/nocodehackers-min.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "miscellaneous",
@@ -1738,7 +1738,7 @@
   {
     "resourceName": "Finsweet Cookie Consent for webflow",
     "briefDescription": "Incredibly powerful cookie consent plugin built specifically for Webflow",
-    "resourceImage": "cookie-consent.finsweet-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/cookie-consent.finsweet-min.jpg",
     "resourceColor": "#7BC964",
     "resourceType": "Clonable",
     "topic": "miscellaneous",
@@ -1752,7 +1752,7 @@
   {
     "resourceName": "Lottieflow",
     "briefDescription": "Downloadable Lottie files that work like magic on your Webflow site",
-    "resourceImage": "lottieflowfinsweet-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/lottieflowfinsweet-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "web Design",
@@ -1766,7 +1766,7 @@
   {
     "resourceName": "Fully GDPR Compliant* Cookie Consent",
     "briefDescription": "Free Cookie Consent Clonable",
-    "resourceImage": "FullyGDPRCompliant-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/FullyGDPRCompliant-min.jpg",
     "resourceColor": "#7BC964",
     "resourceType": "Clonable",
     "topic": "miscellaneous",
@@ -1780,7 +1780,7 @@
   {
     "resourceName": "Custom cookie consent UI",
     "briefDescription": "Free Cookie Consent Clonable",
-    "resourceImage": "CustomcookieconsentUI-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/CustomcookieconsentUI-min.jpg",
     "resourceColor": "#7BC964",
     "resourceType": "Clonable",
     "topic": "miscellaneous",
@@ -1794,7 +1794,7 @@
   {
     "resourceName": "Webflow Resources by @fernandocomet",
     "briefDescription": "A compendium of resources for designers on their webflow learning path",
-    "resourceImage": "webflow_resources-min.jpg",
+    "resourceImage": "https://github.com/fernandocomet/webflowresources/blob/master/src/img/webflow_resources-min.jpg",
     "resourceColor": "#7BC962",
     "resourceType": "Resource",
     "topic": "web Design",

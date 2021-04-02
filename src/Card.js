@@ -21,10 +21,13 @@ class Card extends Component{
         return(
             <div className="card1">
             Hola esto es  Card {this.props.key}
-            {/* <header className="card-header1">
-                <img src={this.props.image} alt={this.props.title} className="card-header" width='280px'/>
+            <header className="card-header1">
+                <img src={this.props.resourceImage} alt={this.props.resourceName} className="card-header" width='720px'/>
             </header>
-            <div className="card-body1">
+            <div>
+                <h1>this.props.resourceName</h1>
+            </div>
+           {/* <div className="card-body1">
                 <p className="date">#{this.props.hashtag}</p>
                 <h2>{this.props.title}</h2>
                 <p className="body-content">{this.props.description}<br></br>
