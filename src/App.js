@@ -20,20 +20,6 @@ class Resources extends Component{
     .then(data => this.setState({ data }))
   }
 
-  /*
-    "resourceName": "Webflow 101 crash course",
-    "briefDescription": "overview of the basics to get started on building your first website,",
-    "resourceImage": "Webflow_101_crash_course-min.jpg",
-    "resourceColor": "#B9C3FF",
-    "resourceType": "Course",
-    "topic": "Web Design",
-    "creator": "Webflow",
-    "creatorLink": "https://webflow.com/",
-    "resourceDetails": "Jump right in to Webflow — get an overview of the basics and get started on building your first website, without learning or writing code.",
-    "resourceLink": "https://university.webflow.com/courses/webflow-101-crash-course",
-    "cost": "Free",
-    "level": "Beginner"
-  */
 
   render(){
     return(
@@ -42,6 +28,7 @@ class Resources extends Component{
           <Card 
           key={idx}
           resourceName={item.resourceName}
+          briefDescription={item.briefDescription}
           resourceImage={item.resourceImage}
           resourceColor={item.resourceColor}
           resourceType={item.resourceType}
@@ -50,6 +37,7 @@ class Resources extends Component{
           creatorLink={item.creatorLink}
           resourceDetails={item.resourceDetails}
           resourceLink={item.resourceLink}
+          cost ={item.cost}
           level ={item.level}
           />
       ))}

@@ -2,17 +2,7 @@ import React, { Component } from 'react'
 import { ExternalLink } from 'react-external-link';
 
 /*
-          key={idx}
-          resourceName={item.resourceName}
-          resourceImage={item.resourceImage}
-          resourceColor={item.resourceColor}
-          resourceType={item.resourceType}
-          topic={item.topic}
-          creator={item.creator}
-          creatorLink={item.creatorLink}
-          resourceDetails={item.resourceDetails}
-          resourceLink={item.resourceLink}
-          level ={item.level}
+    "resourceImage": "https://raw.githubusercontent.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_101_crash_course-min.jpg",
 */
 
 class Card extends Component{
@@ -20,24 +10,22 @@ class Card extends Component{
     render(){
         return(
             <div className="card1">
-            Hola esto es  Card {this.props.key}
+            Hola esto es  Card 
             <header className="card-header1">
                 <img src={this.props.resourceImage} alt={this.props.resourceName} className="card-header" width='720px'/>
             </header>
-            <div>
-                <h1>this.props.resourceName</h1>
-            </div>
-           {/* <div className="card-body1">
-                <p className="date">#{this.props.hashtag}</p>
-                <h2>{this.props.title}</h2>
-                <p className="body-content">{this.props.description}<br></br>
-                {this.props.description2}</p>
-                <ExternalLink href={this.props.url}>
-                    <button className="button button-primary" >
-                        <i className="fa fa-chevron-right"></i> Find out more
-                    </button>    
-                </ExternalLink>
-            </div>                 */}
+                <div>
+                    <h2>{this.props.idx}</h2>
+                    <ExternalLink href={this.props.resourceLink}>
+                        <h1>{this.props.resourceName}</h1>
+                    </ExternalLink>
+                    <h3>{this.props.briefDescription} - {this.props.resourceDetails}</h3>
+                    <h6>- {this.props.resourceColor} - {this.props.topic} - {this.props.cost} - {this.props.level}</h6>
+                    
+                    <ExternalLink href={this.props.creatorLink}>
+                        <h4>{this.props.creator}</h4>
+                    </ExternalLink>
+                </div>
             </div>
         )
     }
