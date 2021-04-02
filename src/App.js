@@ -29,7 +29,7 @@ class Resources extends Component{
           key={idx}
           resourceName={item.resourceName}
           briefDescription={item.briefDescription}
-          resourceImage={item.resourceImage}
+          image={item.pic}
           resourceColor={item.resourceColor}
           resourceType={item.resourceType}
           topic={item.topic}

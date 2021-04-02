@@ -12,7 +12,7 @@ class Card extends Component{
             <div className="card1">
             Hola esto es  Card 
             <header className="card-header1">
-                <img src={this.props.resourceImage} alt={this.props.resourceName} className="card-header" width='720px'/>
+                <img src={this.props.image} alt={this.props.resourceName} className="card-header" width='720px'/>
             </header>
                 <div>
                     <h2>{this.props.idx}</h2>
