@@ -17,6 +17,50 @@ class Resources extends Component{
     .then(data => this.setState({ data }))
   }
 
+  /*
+    "resourceName": "Webflow 101 crash course",
+    "briefDescription": "overview of the basics to get started on building your first website,",
+    "resourceImage": "Webflow_101_crash_course-min.jpg",
+    "resourceColor": "#B9C3FF",
+    "resourceType": "Course",
+    "topic": "Web Design",
+    "creator": "Webflow",
+    "creatorLink": "https://webflow.com/",
+    "resourceDetails": "Jump right in to Webflow — get an overview of the basics and get started on building your first website, without learning or writing code.",
+    "resourceLink": "https://university.webflow.com/courses/webflow-101-crash-course",
+    "cost": "Free",
+    "level": "Beginner"
+  */
+
+  render(){
+    return(
+      <div className="resources-list">
+      {this.state.data.map((item, idx) => (
+          <Card2 
+          key={idx}
+          resourceName
+          resourceImage
+          resourceColor
+          resourceType
+          topic
+          creator
+          creatorLink
+          resourceDetails
+          resourceLink
+          level 
+          image={item.pic}
+          title={item.title} 
+          hashtag={item.category}
+          description={item.description}
+          description2={item.description2}
+          thanksto={item.thanksto}
+          url={item.url}
+          />
+      ))}
+  </div>    
+    )
+  }
+
 }
 
 export default Resources;
