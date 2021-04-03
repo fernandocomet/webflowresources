@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import "bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
 import Card from './Card';
 import './App.css';
 

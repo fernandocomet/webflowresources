@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import { ExternalLink } from 'react-external-link';
+import "bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 /*
     "resourceImage": "https://raw.githubusercontent.com/fernandocomet/webflowresources/blob/master/src/img/Webflow_101_crash_course-min.jpg",
