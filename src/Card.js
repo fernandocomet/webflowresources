@@ -12,7 +12,7 @@ class Card extends Component{
         return(
             <div className="card">
                 <div className="card-header">
-                    <img src={this.props.image} alt={this.props.resourceName} width='720px'/>
+                    <img src={this.props.image} alt={this.props.resourceName} className="img-fluid"/>
                 </div>
                 <div>
                     <h2>Card</h2>
