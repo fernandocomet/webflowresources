@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import "bootstrap";
-import "bootstrap/dist/css/bootstrap.min.css";
-import Card from './Card';
 import './App.css';
+import CardResource from './CardResource';
 
 class Resources extends Component{
 
@@ -25,9 +23,9 @@ class Resources extends Component{
 
   render(){
     return(
-      <div className="resources-list">
+      <div className="card-list">
       {this.state.data.map((item, idx) => (
-          <Card 
+          <CardResource 
           key={idx}
           resourceName={item.resourceName}
           briefDescription={item.briefDescription}

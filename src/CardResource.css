@@ -1,0 +1,247 @@
+
+body{font-family: Arial, Helvetica, sans-serif;}
+@charset "utf-8";
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+}
+
+/* body {
+    background-color: white;
+} */
+
+.container-fluid,
+.container {
+    max-width: 1200px;
+}
+
+.card-container {
+    padding: 100px 0px;
+    -webkit-perspective: 1000;
+    perspective: 1000;
+}
+
+.card-header{
+    border: none;
+    background-color: white;
+}
+
+.profile-card-4 {
+    max-width: 720px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.profile-card-4 img {
+    transition: all 0.25s linear;
+}
+
+.profile-card-4 .profile-content {
+    position: relative;
+    padding: 15px;
+    background-color: #FFF;
+}
+
+.profile-card-4 .profile-name {
+    font-weight: bold;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: -70px;
+    color: #FFF;
+    font-size: 17px;
+}
+
+.profile-card-4 .profile-name p {
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 1.5px;
+}
+
+.profile-card-4 .profile-description {
+    color: #777;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.profile-card-4 .profile-overview {
+    padding: 15px 0px;
+}
+
+.profile-card-4 .profile-overview p {
+    font-size: 10px;
+    font-weight: 600;
+    color: #777;
+}
+
+.profile-card-4 .profile-overview h4 {
+    color: #273751;
+    font-weight: bold;
+}
+
+.profile-card-4 .profile-content::before {
+    content: "";
+    position: absolute;
+    height: 20px;
+    top: -10px;
+    left: 0px;
+    right: 0px;
+    background-color: #FFF;
+    z-index: 0;
+    transform: skewY(3deg);
+}
+
+.profile-card-4:hover img {
+    transform: rotate(5deg) scale(1.1, 1.1);
+    filter: brightness(110%);
+}
+.row {
+    height: 200px;
+}
+
+
+
+/*********************** To the second  ***********************/
+.gallery.box {
+    max-width: 600px; 
+    /* width: 320px; 720
+    height: 405px; */
+    margin: 10px auto;
+    overflow: hidden;
+    border-radius: 1%;
+    background-color: white;
+    /* border: 1px solid grey;
+    border: 5px #fff solid; */
+  }
+  
+  .gallery .card {
+    position: relative;
+  }
+  
+  .gallery .background,
+  .gallery .column {
+    height: 405px;
+  }
+  
+  .gallery .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    background-color: #000;
+    -webkit-transition: opacity 0.35s;
+    -o-transition: opacity 0.35s;
+    transition: opacity 0.35s;
+  }
+
+  .card-body{
+      padding: 10px;
+  }
+
+  h5{
+      text-align: right;
+  }
+  /* 
+  .gallery .info,
+  .gallery .foot {
+    -webkit-transition: bottom 0.35s;
+    -o-transition: bottom 0.35s;
+    transition: bottom 0.35s;
+  }
+  
+  .gallery .info {
+    position: absolute;
+    bottom: -35px;
+    width: 100%;
+  }
+  
+  /* .gallery .info h2 a { 
+  .gallery .info h2 {
+    color: #fff;
+    display: block;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+  }
+  
+  .gallery .info h1 {
+    color: #fff;
+    display: block;
+    /*text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+    text-decoration: none;
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  
+  .gallery .info h2 {
+    line-height: 24px;
+    font-size: 18px;
+    padding: 0 10px;
+    font-weight: 400;
+  }
+  
+  .gallery .foot {
+    height: 35px;
+    bottom: -35px;
+    position: relative;
+    color: #fff;
+    padding: 0 10px;
+  }
+  
+  .gallery .foot .social {
+    float: right;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  
+  .gallery .foot .line {
+    height: 2px;
+    display: block;
+    margin: 10px 0;
+    background-color: #fff;
+    margin-top: 20px;
+    width: 0%;
+    transition: width 0.6s;
+  }
+  
+  .gallery .date {
+    font-weight: 300;
+    color: white;
+  }
+  .gallery .social {
+    font-weight: 300;
+    text-decoration: none;
+  }
+  
+  .gallery .fa-camera-retro {
+    top: 0;
+    left: 0;
+    padding: 10px 10px;
+    position: absolute;
+    color: #fff;
+    font-size: 24px;
+    z-index: 1;
+    transition: font-size 0.35s;
+  }
+  
+  /* All hovers here! 
+  .gallery:hover .info,
+  .gallery:hover .foot {
+    bottom: 10px;
+  }
+  
+  .gallery:hover .overlay {
+    opacity: 0.5;
+  }
+  
+  .gallery:hover .foot .line {
+    width: 100%;
+  }
+  
+  .gallery:hover .fa-camera-retro {
+    font-size: 32px;
+  } */

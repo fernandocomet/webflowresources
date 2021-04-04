@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+} .card-list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  position: absolute;
+  top: 50px;
+  /*height: 100%; 
+  margin-bottom: 60px;
+}*/
+
+.card-list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* align-items: stretch;
+  align-content: stretch; */
+  position: absolute;
+  top: 50px;
+  /*height: 100%; */
+  margin-bottom: 60px;
 }
