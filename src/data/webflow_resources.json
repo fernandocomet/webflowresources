@@ -1790,19 +1790,5 @@
     "resourceLink": "https://webflow.com/website/gdpr-cookie",
     "cost": "Free",
     "level": "Beginner"
-  },
-  {
-    "resourceName": "Webflow Resources by @fernandocomet",
-    "briefDescription": "A compendium of resources for designers on their webflow learning path",
-    "pic": "https://cdn.jsdelivr.net/gh/fernandocomet/webflowresources@master/src/img/webflow_resources-min.jpg",
-    "resourceColor": "#7BC962",
-    "resourceType": "Resource",
-    "topic": "web Design",
-    "creator": "Fernando Comet",
-    "creatorLink": "https://fernandocomet.netlify.app/",
-    "resourceDetails": "Actually you are here, say hi!",
-    "resourceLink": "https://ultimate-webflow-resources.webflow.io/",
-    "cost": "Free",
-    "level": "Beginner"
   }
 ]
