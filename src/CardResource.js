@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import { ExternalLink } from 'react-external-link';
 import './CardResource.css';
+import { Button } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 
 class CardResource extends Component{
 

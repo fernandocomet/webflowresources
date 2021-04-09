@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
+ import './App.css';
 import CardResource from './CardResource';
+import CardFinal from './CardFinal';
 
 class Resources extends Component{
 
@@ -24,7 +25,7 @@ class Resources extends Component{
   render(){
     return(
       <div className="card-list">
-      {this.state.data.map((item, idx) => (
+       {this.state.data.map((item, idx) => (
           <CardResource 
           key={idx}
           resourceName={item.resourceName}
@@ -40,7 +41,7 @@ class Resources extends Component{
           cost ={item.cost}
           level ={item.level}
           />
-      ))}
+      ))} 
   </div>    
     )
   }

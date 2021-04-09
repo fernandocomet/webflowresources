@@ -140,6 +140,7 @@ a:focus {
 
   .card-body{
       padding: 10px;
+      background-color: rgb(240, 240, 240);
   }
 
   h5{
