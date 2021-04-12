@@ -1808,7 +1808,7 @@
   {
     "resourceName": "Webflow: basics",
     "briefDescription": "Awwwards webflow course",
-    "pic": "https://cdn.jsdelivr.net/gh/fernandocomet/webflowresources@master/src/img/webflow_basics-min.jpg",
+    "pic": "https://cdn.jsdelivr.net/gh/fernandocomet/webflowresources@master/src/img/webflow_basics.jpg",
     "resourceColor": "#B9C3FF",
     "resourceType": "Course",
     "topic": "Web Design",
