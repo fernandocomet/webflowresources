@@ -1790,5 +1790,33 @@
     "resourceLink": "https://webflow.com/website/gdpr-cookie",
     "cost": "Free",
     "level": "Beginner"
+  },
+  {
+    "resourceName": "Sketchzlab",
+    "briefDescription": "Webflow cloneables & tutorials",
+    "pic": "https://cdn.jsdelivr.net/gh/fernandocomet/webflowresources@master/src/img/sketchzlab.jpg",
+    "resourceColor": "#7BC964",
+    "resourceType": "Clonable",
+    "topic": "miscellaneous",
+    "creator": "Sketchzlab",
+    "creatorLink": "https://www.sketchzlab.com/",
+    "resourceDetails": "A collection of sweet cloneables to shorten development time for every project and tutorials for all.",
+    "resourceLink": "https://www.sketchzlab.com/resources/overview",
+    "cost": "Free",
+    "level": "Beginner"
+  },
+  {
+    "resourceName": "Webflow: basics",
+    "briefDescription": "Awwwards webflow course",
+    "pic": "https://cdn.jsdelivr.net/gh/fernandocomet/webflowresources@master/src/img/webflow_basics-min.jpg",
+    "resourceColor": "#B9C3FF",
+    "resourceType": "Course",
+    "topic": "Web Design",
+    "creator": "Greg Rog",
+    "creatorLink": "https://learnux.io/",
+    "resourceDetails": "This Awwwards course introduces you to the world of web design without coding with Webflow, addressing the most important element - layout.",
+    "resourceLink": "https://www.awwwards.com/academy/course/webflow-basics",
+    "cost": "Paid",
+    "level": "Beginner"
   }
 ]
